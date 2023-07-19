@@ -1,9 +1,4 @@
-# Table of content
-
-- [Table of content](#table-of-content)
-  - [Section 1 - Getting starting with Javascript](#section-1---getting-starting-with-javascript)
-
-## Section 1 - Getting starting with Javascript
+# Section 1 - Getting starting with Javascript
 
 1. **Install a web browser**
 2. **Install visual studio code**
