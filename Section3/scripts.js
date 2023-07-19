@@ -141,7 +141,8 @@ Math.pow(123123123, 9123192391023);
 23 / Infinity;
 -Infinity;
 -Infinity === Number.NEGATIVE_INFINITY;
--0; // -0 , yes there is a negative 0 in the language 0 === 0 ; // true 1 / 0 ; // -Infinity
+-0; // -0 , yes there is a negative 0 in the language 0 === 0 ; // true
+1 / 0; // -Infinity
 1 / 0 === 1 / 0;
 Infinity + Infinity;
 var a = 0,
